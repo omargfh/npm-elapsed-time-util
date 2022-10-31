@@ -18,7 +18,9 @@
         "url": "https://github.com/omargfh/npm-time-elapsed"
     },
     "files": [
-        "time-elapsed",
+        "time-elapsed.js",
+        "time-elapsed.ts",
+        "time-elapsed.d.ts",
         "README.md"
     ],
     "main": "time-elapsed",
