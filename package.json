@@ -1,0 +1,21 @@
+{
+    "name": "elpased-time-util",
+    "version": "0.1.0",
+    "private": false,
+    "homepage" : "https://github.com/omargfh/npm-time-elapsed",
+    "dependencies": {},
+    "scripts": {},
+    "eslintConfig": {},
+    "issues": {
+        "url" : "https://github.com/omargfh/npm-time-elapsed/issues"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/omargfh/npm-time-elapsed"
+    },
+    "files": [
+        "time-elapsed.js"
+    ],
+    "main": "time-elapsed.js"
+}
