@@ -1,6 +1,6 @@
 <!-- readme -->
 # Elapsed Time Utility
-
+TypeScript script to find and keep track of elapsed time of different code blocks
 
 ## Install
 
