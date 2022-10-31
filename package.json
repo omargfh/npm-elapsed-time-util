@@ -1,13 +1,13 @@
 {
     "name": "elpased-time-util",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "private": false,
-    "homepage" : "https://github.com/omargfh/npm-time-elapsed",
+    "homepage": "https://github.com/omargfh/npm-time-elapsed",
     "dependencies": {},
     "scripts": {},
     "eslintConfig": {},
     "issues": {
-        "url" : "https://github.com/omargfh/npm-time-elapsed/issues"
+        "url": "https://github.com/omargfh/npm-time-elapsed/issues"
     },
     "license": "MIT",
     "repository": {
