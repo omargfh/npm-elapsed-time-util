@@ -3,7 +3,10 @@
     "version": "0.1.2",
     "private": false,
     "homepage": "https://github.com/omargfh/npm-time-elapsed",
-    "dependencies": {},
+    "dependencies": {
+        "elapsed-time-util": "^0.1.2",
+        "install": "^0.13.0"
+    },
     "scripts": {},
     "eslintConfig": {},
     "issues": {
@@ -18,7 +21,8 @@
         "time-elapsed.js",
         "README.md"
     ],
-    "main": "time-elapsed.js",
+    "main": "time-elapsed",
+    "typings": "time-elapsed.d.ts",
     "keywords": [
         "time",
         "elapsed",
