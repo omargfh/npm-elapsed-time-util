@@ -15,7 +15,22 @@
         "url": "https://github.com/omargfh/npm-time-elapsed"
     },
     "files": [
-        "time-elapsed.js"
+        "time-elapsed.js",
+        "README.md"
     ],
-    "main": "time-elapsed.js"
+    "main": "time-elapsed.js",
+    "keywords": [
+        "time",
+        "elapsed",
+        "time-elapsed",
+        "time elapsed",
+        "time elapsed util",
+        "time elapsed utility",
+        "time elapsed npm",
+        "time elapsed npm package",
+        "timing",
+        "measure time",
+        "performance",
+        "performance measure"
+    ]
 }
