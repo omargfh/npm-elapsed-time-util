@@ -1,7 +1,9 @@
-<!-- readme -->
 # Elapsed Time Utility
 TypeScript script to find and keep track of elapsed time of different code blocks
 
+[![npm version](https://badge.fury.io/js/elapsed-time-util.svg)](https://badge.fury.io/js/elapsed-time-util)
+[![npm](https://img.shields.io/npm/dt/elapsed-time-util.svg)](https://www.npmjs.com/package/elapsed-time-util)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ## Install
 
 ```
